@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>flywebservices_pinit</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This extension will be add Pinit (Pinterest) hovering button to the main photo on the product details page.</summary>
+    <description>This extension will be add Pinit (Pinterest) hovering button to the main photo on the product details page.</description>
+    <notes>Simply adds the Pinit javascript to the header code.</notes>
+    <authors><author><name>Fly Webservices</name><user>flyweb</user><email>info@flywebservices.nl</email></author></authors>
+    <date>2013-11-04</date>
+    <time>13:32:14</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="FlyWebservices_Pinit.xml" hash="fd9e9a48b7be6acf76d066ea8d0a12ed"/></dir></target><target name="magecommunity"><dir name="FlyWebservices"><dir name="Pinit"><dir name="Block"><file name="About.php" hash="7669bda6ec1bfce1f024a4e6887fadc1"/></dir><dir name="etc"><file name="config.xml" hash="e66a86ce38ec2ed4c2bb7e51dadfdc59"/><file name="system.xml" hash="6b2c4ac8f1cf0d7eefd0b3a3c9608e89"/></dir><dir name="Helper"><file name="Data.php" hash="20c18148b8f7ff8240aea01af81cc2fb"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="pinit.xml" hash="7e88d06f91fad8033d68ca7784408314"/></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="0.1.0">
+    <catalog_product_view> 	
+		<reference name="head">
+			<block type="core/text" name="jquery">
+				<action method="setText"><text><![CDATA[<script type="text/javascript">(function(d){  var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');  p.type = 'text/javascript';  p.setAttribute('data-pin-hover', true); p.async = true;  p.src = '//assets.pinterest.com/js/pinit.js';  f.parentNode.insertBefore(p, f);}(document));</script><style>a[data-pin-log=button_pinit_floating] {    z-index:999;   }</style>]]></text></action>
+			</block>
+        </reference>
+    </catalog_product_view>
+</layout>
