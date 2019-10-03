@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/flywebservices_pinit",
+    "name": "openmage-module-fostering\/flywebservices_pinit",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This extension will be add Pinit (Pinterest) hovering button to the main photo on the product details page.",
     "authors": [

@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension will be add Pinit (Pinterest) hovering button to the main photo on the product details page.
